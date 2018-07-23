@@ -3,8 +3,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.gy.shop</groupId>
-    <artifactId>shop-api</artifactId>
+    <groupId>com.gy.wo</groupId>
+    <artifactId>wo-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>shop-api</name>
